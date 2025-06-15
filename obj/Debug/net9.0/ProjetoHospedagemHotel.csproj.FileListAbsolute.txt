@@ -1,0 +1,14 @@
+C:\Programação\.NET estudos\ProjetoHospedagemHotel\bin\Debug\net9.0\ProjetoHospedagemHotel.exe
+C:\Programação\.NET estudos\ProjetoHospedagemHotel\bin\Debug\net9.0\ProjetoHospedagemHotel.deps.json
+C:\Programação\.NET estudos\ProjetoHospedagemHotel\bin\Debug\net9.0\ProjetoHospedagemHotel.runtimeconfig.json
+C:\Programação\.NET estudos\ProjetoHospedagemHotel\bin\Debug\net9.0\ProjetoHospedagemHotel.dll
+C:\Programação\.NET estudos\ProjetoHospedagemHotel\bin\Debug\net9.0\ProjetoHospedagemHotel.pdb
+C:\Programação\.NET estudos\ProjetoHospedagemHotel\obj\Debug\net9.0\ProjetoHospedagemHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programação\.NET estudos\ProjetoHospedagemHotel\obj\Debug\net9.0\ProjetoHospedagemHotel.AssemblyInfoInputs.cache
+C:\Programação\.NET estudos\ProjetoHospedagemHotel\obj\Debug\net9.0\ProjetoHospedagemHotel.AssemblyInfo.cs
+C:\Programação\.NET estudos\ProjetoHospedagemHotel\obj\Debug\net9.0\ProjetoHospedagemHotel.csproj.CoreCompileInputs.cache
+C:\Programação\.NET estudos\ProjetoHospedagemHotel\obj\Debug\net9.0\ProjetoHospedagemHotel.dll
+C:\Programação\.NET estudos\ProjetoHospedagemHotel\obj\Debug\net9.0\refint\ProjetoHospedagemHotel.dll
+C:\Programação\.NET estudos\ProjetoHospedagemHotel\obj\Debug\net9.0\ProjetoHospedagemHotel.pdb
+C:\Programação\.NET estudos\ProjetoHospedagemHotel\obj\Debug\net9.0\ProjetoHospedagemHotel.genruntimeconfig.cache
+C:\Programação\.NET estudos\ProjetoHospedagemHotel\obj\Debug\net9.0\ref\ProjetoHospedagemHotel.dll
